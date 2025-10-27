@@ -5,6 +5,7 @@ padding:40px;
 justify-content:space-around;
 border:grey solid;
 background-image:url(./image1.jpg);
+text-align:center;
 }
 
 .card img {
@@ -16,11 +17,11 @@ background-image:url(./image1.jpg);
    font-size:14px;
    font-weight:bold;
    margin:35px;
-   padding:40px;
+   padding:35px;
 }
 
 .card-content h3{
-  margin:30px ;
+  margin:35px ;
   font-size:15px;
   padding:10px;
   font-weight:bold;
@@ -29,7 +30,7 @@ background-image:url(./image1.jpg);
 
 .card-content p{
   margin:12px;
-  font-size:14px;
+  font-size:15px;
   color:grey;
 }
 .info-bar {
@@ -47,7 +48,7 @@ background-image:url(./image1.jpg);
 .card3 .info-bar {background:green;}
 
 .card1{
-  border: black solid ;
+  border: grey solid;
   background-color:white;
   flex-basis:30%;
   border-radius:3%;
@@ -55,7 +56,7 @@ background-image:url(./image1.jpg);
 }
 
 .card2{
-  border: black solid;
+  border: grey solid;
   background-color:white;
   flex-basis:30%;
   border-radius:3%;
@@ -63,7 +64,7 @@ background-image:url(./image1.jpg);
 }
 
 .card3{
-   border:black solid;
+   border:grey solid;
     background-color:white;
     flex-basis:30%;
     border-radius:3%;
